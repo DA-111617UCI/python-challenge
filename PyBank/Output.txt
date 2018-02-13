@@ -1,0 +1,3 @@
+20    NaN
+38    NaN
+Name: Date, dtype: object
